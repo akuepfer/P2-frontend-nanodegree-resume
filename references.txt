@@ -1,0 +1,17 @@
+References for P2 Interactive Resume
+------------------------------------
+
+Frontend Nanodegree Style Guide     http://udacity.github.io/frontend-nanodegree-styleguide/
+
+JavaScript                          https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference
+CSS                                 https://developer.mozilla.org/en-US/docs/Web/CSS/Reference
+jQuery                              http://api.jquery.com/
+Google Maps                         https://developers.google.com/maps/documentation/javascript/reference?hl=de
+Polymer Components                  https://www.polymer-project.org/
+
+
+Validators
+----------
+
+HTML    http://validator.w3.org/
+CSS     http://jigsaw.w3.org/css-validator/
